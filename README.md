@@ -1,2 +1,2 @@
 # SQLZOO-
-sqlzoo的自我联系
+sqlzoo的自我练习
